@@ -1,0 +1,6 @@
+{
+    "NOTION_API_KEY": "your_notion_api_key",
+    "CSV_FILE_PATH": "notion_pages.csv",
+    "GITHUB_REPO_PATH": "./notion-sync-blog",
+    "GITHUB_REMOTE_URL": "git@github.com:yourusername/notion-sync-blog.git"
+}
